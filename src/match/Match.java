@@ -14,7 +14,16 @@ public class Match {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
+        // This class represents a Match object, which keeps track of the current Players.
+        
     }
-    
-}
+    private Player[] players;
+
+    public Match(Player[] players) {
+        this.players = players;
+    }
+    // Returns the Players in the Match.
+    public Player[] getPlayers() {
+        return players;
+    }       
+  }
