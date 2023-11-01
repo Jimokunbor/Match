@@ -19,11 +19,14 @@ public class Match {
     }
     private Player[] players;
 
+    // Constructor
     public Match(Player[] players) {
         this.players = players;
     }
+
     // Returns the Players in the Match.
     public Player[] getPlayers() {
         return players;
+    }
     }       
-  }
+  

@@ -9,6 +9,8 @@ package match;
  * @author jimok
  */
 public enum AbilityType {
+    
+    // This enum represents the different types of Abilities that an Algomon can have.
     OFFENSIVE,
     DEFENSIVE,
     HEALING

@@ -9,6 +9,8 @@ package match;
  * @author jimok
  */
 public class Ability {
+    
+    // This class represents an Ability object, which has a type and a name.
     private AbilityType type;
     private String name;
 
