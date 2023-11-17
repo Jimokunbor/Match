@@ -29,5 +29,4 @@ public class Ability {
     public String getName() {
         return name;
     }
-    
 }

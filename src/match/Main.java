@@ -30,5 +30,5 @@ public class Main {
                         new Ability(AbilityType.DEFENSIVE, "Barrier"),
                         new Ability(AbilityType.HEALING, "Recover")
                 }),
-    
+                        
 

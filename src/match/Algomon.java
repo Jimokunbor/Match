@@ -1,6 +1,9 @@
 /*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
+ * https://github.com/Jimokunbor/OOP-Lab
+Luiz Gustavo Almeida Silva 
+2022553
+ * Okunobr James Ehigiamusoe
+2022473
  */
 package match;
 
@@ -9,7 +12,7 @@ package match;
  * @author jimok
  */
 public class Algomon {
-    private String name;
+      private String name;
     private int health;
     private int attack;
     private int defence;
@@ -55,5 +58,4 @@ public class Algomon {
     public Ability[] getAbilities() {
         return abilities;
     }
-    
 }
